@@ -1,0 +1,460 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box
+}
+
+h1 , h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat' ;
+}
+
+.rectangle{
+    position: relative;
+    left: 500px;
+    bottom: 125px;
+}
+
+.image{
+    position: relative;
+    left: 520px;
+    bottom: 479px;
+}
+
+.home{
+    margin-right: 20px;
+}
+
+.top-item{
+    position: relative;
+    top: 57px;
+}
+
+.art{
+    position: relative;
+    bottom: 1450px;
+    left: 150px;   
+}
+
+.art h1{
+    color:#3F3F3F;
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-weight: 700;
+    font-size: 70px;
+    word-spacing: 0.5rem;  
+}
+
+
+
+.middle-section{
+    background-color: black;
+    position: relative;
+    bottom: 1050px;
+}
+
+.man{
+    position: relative;
+    top: 80px;
+    left: 120px;
+    z-index: 1;
+}
+
+.rec{
+    position: relative;
+    top: 140px;
+    right: 400px;
+}
+
+.about-me{
+    color: white;
+    position: relative;
+    left: 760px;
+    bottom: 400px;
+    padding-bottom: 0px;
+}
+
+
+#gallery{
+    position: relative;
+    bottom: 1351px;
+    background-color: white;
+    padding-left: 120px;
+    padding-right: 140px;
+    z-index: 1;
+}
+.gall{
+    padding-top: 100px;
+    padding-bottom: 95px;
+}
+
+
+.serene{
+    position: relative;
+    right: 370px;
+}
+
+.serene-text{
+    position: absolute;
+    top: 450px;
+    left: 260px;
+}
+
+.queen{
+    position: relative;
+    left: 380px;
+    bottom: 402px;
+}
+
+.queen-rec{
+    position: relative;
+    right: 370px;
+}
+
+.queen-text{
+    position: absolute;
+    left: 150px;
+    bottom: 120px;
+}
+
+.accompany-img{
+    position: relative;
+    left: 760px;
+    bottom: 664px;
+}
+
+.accompany{
+    position: absolute;
+    left: 0px;
+}
+
+.accompany-text{
+    position: absolute;
+    left: 120px;
+    bottom: 180px;
+}
+
+.exhibition-img{
+    position: relative;
+    bottom: 640px;
+}
+
+.exhibition{
+    position: absolute;
+    left: 0px;
+    bottom: 2px;
+}
+
+.exhibition-text{
+    position: absolute;
+    left: 120px;
+    bottom: 180px;
+}
+
+.vintage-img{
+    position: relative;
+    bottom: 1200px;
+    left: 380px;
+}
+
+.vintage{
+    position: absolute;
+    left: 0px;
+}
+
+.vintage-text{
+    position: absolute;
+    left: 150px;
+    bottom: 320px;
+}
+
+.exhibit-img{
+    position: relative;
+    left: 760px;
+    bottom: 1740px;
+}
+
+.exhibit{
+    position: absolute;
+    left: 0px;
+}
+
+.exhibit-text{
+    position: absolute;
+    left: 120px;
+    bottom: 180px;
+}
+
+.frame-img{
+    position: relative;
+    bottom: 1710px;
+}
+
+.frame{
+    position: absolute;
+    left: 0px;
+}
+
+.frame-text{
+    position: absolute;
+    left:150px;
+    bottom: 180px;
+}
+
+.machineman-img{
+    position: relative;
+    bottom: 1969px;
+    left: 380px;
+}
+
+.machine{
+    position: absolute;
+    left: 0px;
+}
+
+.machine-text{
+    position: absolute;
+    left: 120px;
+    bottom: 120px;
+}
+
+.process-img{
+    position: relative;
+    left: 760px;
+    bottom: 2370px;
+}
+
+.process{
+    position: absolute;
+    left: 0px;
+    
+}
+
+.process-text{
+    position: absolute;
+    left: 150px;
+    bottom: 180px;
+}
+
+.pricing{
+    padding-bottom:30px ;
+}
+
+.prices{
+    position: relative;
+    bottom: 3500px;
+    z-index: 1;
+}
+
+.face{
+    position: relative;
+    bottom: 460px;
+    right: 20px;
+}
+
+.poet{
+    position: relative;
+    left: 70px;
+}
+
+.pen1{
+    position: relative;
+    left: 180px;
+    bottom: 950px;
+}
+
+.pencil1{
+    position: relative;
+    top: 57px;
+}
+
+.price1{
+    position: relative;
+    left: 230px;
+    top: 20px;
+    
+}
+
+.pen2{
+    position: relative;
+    left: 180px;
+    bottom: 950px;
+}
+
+.pencil2{
+    position: relative;
+    top: 57px;
+}
+
+.price2{
+    position: relative;
+    left: 230px;
+    top: 20px;
+    
+}
+
+.pen3{
+    position: relative;
+    left:530px;
+    bottom: 1192px;
+}
+
+.poet3{
+    position: relative;
+    left: 70px;
+}
+
+.pencil3{
+    position: relative;
+    top: 57px;
+}
+
+.price3{
+    position: relative;
+    left: 230px;
+    top: 20px;
+    
+}
+
+.pen4{
+    position: relative;
+    left:530px;
+    bottom: 1192px;
+}
+
+.pencil4{
+    position: relative;
+    top: 57px;
+}
+
+.price4{
+    position: relative;
+    left: 230px;
+    top: 20px;
+    
+}
+
+.pen5{
+    position: relative;
+    left:900px;
+    bottom: 1495px;
+}
+
+.poet5{
+    position: relative;
+    left: 70px;
+}
+
+.pencil5{
+    position: relative;
+    top: 57px;
+}
+
+.price5{
+    position: relative;
+    left: 230px;
+    top: 20px;
+    
+}
+
+.line6{
+    position: relative;
+    bottom: 130px;
+}
+
+/* .pen6{
+    position: relative;
+    left:530px;
+    bottom: 1192px;
+}
+
+.pencil6{
+    position: relative;
+    top: 57px;
+}
+
+.price6{
+    position: relative;
+    left: 230px;
+    top: 20px;
+    
+} */
+
+.rec-top{
+    position: relative;
+    left: 950px;
+    bottom: 1930px;
+}
+
+.rec-middle{
+    position: relative;
+    left: 730px;
+    bottom: 1820px;
+}
+
+.rec-out{
+    position: relative;
+    left: 800px;
+    bottom: 1750px;
+}
+
+.footer{
+    background-color: black;
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+#button{
+    position: relative;
+    bottom: 2300px;
+    background-color: #F66E44;
+    color: white;
+    font-family: 'Montserrat';
+    padding: 27px 54px 26px 54px;
+    border: none;
+}
+
+#book-button{
+    position: relative;
+    top: 50px;
+    right: 525px;
+    background-color: #F66E44;
+    color: white;
+    font-family: 'Montserrat';
+    padding: 18px 39px 18px 39px;
+    border: none;
+
+}
+
+@media (max-width:1028px){
+
+    .rectangle{
+        position: relative;
+        left: 0px;
+        bottom: 164px;
+
+    }
+
+    .image{
+        position: relative;
+        left: 230px;
+        bottom: 500px;
+        /* z-index: 1; */
+    }
+
+    .middle-section{
+        position: relative;
+        bottom: 1172px;
+        left: 60px;
+     
+    }
+    
+    
+}
+
+  
